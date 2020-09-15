@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "985846778063",
+    "firebase_url": "https://laundryapp-dea10.firebaseio.com",
+    "project_id": "laundryapp-dea10",
+    "storage_bucket": "laundryapp-dea10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985846778063:android:fd92b40959e5db320b4fba",
+        "android_client_info": {
+          "package_name": "com.example.laundryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985846778063-9n941pukjvta3o5kgv3hn2nr1or5chch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT_PC2LWU2-o6Jn9GSd_dG70iha74sMPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985846778063-9n941pukjvta3o5kgv3hn2nr1or5chch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">LaundryApp</string>
+    <string name="add_details">Add Details</string>
+    <string name="place_order">Place Order</string>
+    <string name="proceed_to_pay">Proceed To Pay</string>
 
 
 </resources>

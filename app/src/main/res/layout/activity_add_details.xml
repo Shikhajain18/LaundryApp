@@ -21,7 +21,6 @@
         android:layout_width="50dp"
         android:layout_height="45dp"
         android:src="@drawable/baseline_arrow_back_ios_black_18dp"
-        android:background="null"
         />
 
 
